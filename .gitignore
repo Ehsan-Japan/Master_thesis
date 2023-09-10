@@ -1,0 +1,18 @@
+# Ignore specific files
+filename.txt
+secret_data.json
+
+# Ignore all files of a specific type (e.g., all .log files)
+*.log
+
+# Ignore specific directories
+node_modules/
+build/
+training_data_figs_normalized/
+training_data_labels/
+training_data/
+training_data_figs/
+features/
+output/
+slanted_H_training_data/
+slanted_H_training_figs/
